@@ -91,5 +91,13 @@ namespace Csharpseleniumtechassessment.ToDoList.Tests
 
             Assert.AreNotEqual("2 items left!", _todoPage.GetItemsLeftCounterText(), "Counter did not update correctly.");
         }
+
+
+        // For future development
+        //TEST ON: Deletion or removal for 1 todo 
+        //TEST ON: Marking completed for individual item
+        //TEST ON : Filtering TODOS
+
+
     }
 }

@@ -1026,11 +1026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\TestAutomationInterview\\Cognizantinterview\\Csharpseleniumtechassessment\\Csharpseleniumtechassessment\\Csharpseleniumtechassessment.csproj",
+      "projectUniqueName": "C:\\Users\\kevin\\ToDoListSelenium\\Csharpseleniumtechassessment\\Csharpseleniumtechassessment.csproj",
       "projectName": "Csharpseleniumtechassessment",
-      "projectPath": "C:\\Users\\kevin\\source\\repos\\TestAutomationInterview\\Cognizantinterview\\Csharpseleniumtechassessment\\Csharpseleniumtechassessment\\Csharpseleniumtechassessment.csproj",
+      "projectPath": "C:\\Users\\kevin\\ToDoListSelenium\\Csharpseleniumtechassessment\\Csharpseleniumtechassessment.csproj",
       "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\source\\repos\\TestAutomationInterview\\Cognizantinterview\\Csharpseleniumtechassessment\\Csharpseleniumtechassessment\\obj\\",
+      "outputPath": "C:\\Users\\kevin\\ToDoListSelenium\\Csharpseleniumtechassessment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
